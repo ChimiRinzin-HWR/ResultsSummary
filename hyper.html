@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="styles.css" />
+
+    <title>Frontend Mentor | Results summary component</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="card">
+        <div class="result">
+          <h4>Your Result</h4>
+          <div class="score">
+            <h1 id="overalls"></h1>
+            <p>of 100</p>
+          </div>
+          <h3 id="performance"></h3>
+          <p class="statements">
+            You scored higher than <span id="percentage"></span> of the people
+            who have taken these tests.
+          </p>
+        </div>
+        <div class="summary">
+          <h4>Summary</h4>
+          <ul id="summary-list">
+            <li class="reaction">
+              <span style="display: flex; gap: 10px" class="reactionc"
+                ><img src="#" alt="#" id="reactioni" /><strong
+                  >Reaction</strong
+                ></span
+              >
+              <span
+                ><strong id="reactions"></strong>
+                <span class="grading">/ 100</span></span
+              >
+            </li>
+            <li class="memory">
+              <span style="display: flex; gap: 10px" class="memoryc"
+                ><img src="#" alt="#" id="memoryi" /><strong
+                  >Memory</strong
+                ></span
+              >
+              <span
+                ><strong id="memories"></strong>
+                <span class="grading">/ 100</span></span
+              >
+            </li>
+            <li class="verbal">
+              <span style="display: flex; gap: 10px" class="verbalc"
+                ><img src="#" alt="#" id="verbali" /><strong
+                  >Verbal</strong
+                ></span
+              >
+              <span
+                ><strong id="verbals"></strong>
+                <span class="grading">/ 100</span></span
+              >
+            </li>
+            <li class="visual">
+              <span style="display: flex; gap: 10px" class="visualc"
+                ><img src="#" alt="#" id="visuali" /><strong
+                  >Visual</strong
+                ></span
+              >
+              <span
+                ><strong id="visuals"></strong>
+                <span class="grading">/ 100</span></span
+              >
+            </li>
+          </ul>
+          <button id="button">Continue</button>
+        </div>
+      </div>
+    </main>
+    <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by
+      <a href="https://www.linkedin.com/in/chimi-rinzin-20178a291/"
+        >Chimi Rinzin</a
+      >.
+    </div>
+  </body>
+  <script src="javaS.js"></script>
+</html>

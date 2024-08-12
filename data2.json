@@ -1,0 +1,134 @@
+[
+  [
+    {
+      "category": "Reaction",
+      "score": 80,
+      "icon": "./assets/images/icon-reaction.svg"
+    },
+    {
+      "category": "Memory",
+      "score": 92,
+      "icon": "./assets/images/icon-memory.svg"
+    },
+    {
+      "category": "Verbal",
+      "score": 61,
+      "icon": "./assets/images/icon-verbal.svg"
+    },
+    {
+      "category": "Visual",
+      "score": 72,
+      "icon": "./assets/images/icon-visual.svg"
+    }
+  ],
+  [
+    {
+      "category": "Reaction",
+      "score": 66,
+      "icon": "./assets/images/icon-reaction.svg"
+    },
+    {
+      "category": "Memory",
+      "score": 99,
+      "icon": "./assets/images/icon-memory.svg"
+    },
+    {
+      "category": "Verbal",
+      "score": 56,
+      "icon": "./assets/images/icon-verbal.svg"
+    },
+    {
+      "category": "Visual",
+      "score": 70,
+      "icon": "./assets/images/icon-visual.svg"
+    }
+  ],
+  [
+    {
+      "category": "Reaction",
+      "score": 76,
+      "icon": "./assets/images/icon-reaction.svg"
+    },
+    {
+      "category": "Memory",
+      "score": 49,
+      "icon": "./assets/images/icon-memory.svg"
+    },
+    {
+      "category": "Verbal",
+      "score": 52,
+      "icon": "./assets/images/icon-verbal.svg"
+    },
+    {
+      "category": "Visual",
+      "score": 51,
+      "icon": "./assets/images/icon-visual.svg"
+    }
+  ],
+  [
+    {
+      "category": "Reaction",
+      "score": 40,
+      "icon": "./assets/images/icon-reaction.svg"
+    },
+    {
+      "category": "Memory",
+      "score": 66,
+      "icon": "./assets/images/icon-memory.svg"
+    },
+    {
+      "category": "Verbal",
+      "score": 55,
+      "icon": "./assets/images/icon-verbal.svg"
+    },
+    {
+      "category": "Visual",
+      "score": 69,
+      "icon": "./assets/images/icon-visual.svg"
+    }
+  ],
+  [
+    {
+      "category": "Reaction",
+      "score": 65,
+      "icon": "./assets/images/icon-reaction.svg"
+    },
+    {
+      "category": "Memory",
+      "score": 99,
+      "icon": "./assets/images/icon-memory.svg"
+    },
+    {
+      "category": "Verbal",
+      "score": 56,
+      "icon": "./assets/images/icon-verbal.svg"
+    },
+    {
+      "category": "Visual",
+      "score": 79,
+      "icon": "./assets/images/icon-visual.svg"
+    }
+  ],
+  [
+    {
+      "category": "Reaction",
+      "score": 100,
+      "icon": "./assets/images/icon-reaction.svg"
+    },
+    {
+      "category": "Memory",
+      "score": 100,
+      "icon": "./assets/images/icon-memory.svg"
+    },
+    {
+      "category": "Verbal",
+      "score": 100,
+      "icon": "./assets/images/icon-verbal.svg"
+    },
+    {
+      "category": "Visual",
+      "score": 100,
+      "icon": "./assets/images/icon-visual.svg"
+    }
+  ]
+]

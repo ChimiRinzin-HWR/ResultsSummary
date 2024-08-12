@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'hanken';
-    src: url('/assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
+    src: url('./assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
 }
 :root{
     --Light-red: hsl(0, 100%, 67%);

@@ -26,7 +26,6 @@
     --Dark-gray-blue: hsl(224, 30%, 27%);
 }
 main{
-    height: 45rem;
     display: flex;
     justify-content: center;
     align-items: center;

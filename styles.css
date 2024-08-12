@@ -25,11 +25,6 @@
     --Light-lavender: hsl(241, 100%, 89%);
     --Dark-gray-blue: hsl(224, 30%, 27%);
 }
-main{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 body{
     font-family: 'hanken';
     background-color: #eff1f5;
@@ -38,6 +33,11 @@ body{
     border-radius: 20px;
     display: flex;
     background: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
     border-radius: 20px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -97,6 +97,7 @@ body{
 
 .summary{
     padding: 40px;
+    max-width: 20rem;
     flex: 1;
 }
 ul{

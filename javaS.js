@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function(){
 const next = document.getElementById("button")
 
 next.addEventListener('click', myfunction)
-next.addEventListener('touchstart', myfunction)
+next.addEventListener('touchend', myfunction)
 next.addEventListener('keydown', function(event){
     if(event.key === 'Enter'){
         myfunction();
